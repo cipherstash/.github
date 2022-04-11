@@ -1,23 +1,32 @@
-## Building secure applications should be easy
+# 👋 G'day, we're CipherStash
 
-At CipherStash care deeply about data-security and want to make the best possible encryption easy-to-use for all
-developers.
+<img align="right" src="https://avatars.githubusercontent.com/u/66902246?s=400&v=4">
 
-We're building a secure data-vault that uses _searchable_ encryption to keep data encrypted at all times: in-transit,
-at-rest and *in-use*. We don't want you to have to learn some new esoteric protocol or API. Oh no. We're making
-CipherStash work with your favourite languages and tools like Prisma and ActiveRecord.
+## ✨ We're making it easy to build secure applications
 
-## Encryption should be Scrutinized
+CipherStash helps you build encryption-enabled apps with blazing fast search.
 
-We believe that for you to trust our encryption, we must develop it in public. The best security comes from scrutiny,
-not obscurity.
+You can add data encryption to your Node.js or Ruby apps with just a few lines of code.
 
-## About Us
+Level up your security, and keep the dev workflows you know and love.
 
-Learn more about us at [cipherstash.com](https://cipherstash.com).
+## 👁 Encryption should be scrutinized
 
-And here's some links for you:
+We believe that the only encryption you can trust is **encryption developed in public**.
 
-* [Public Docs](https://docs.cipherstash.com)
-* [Discussion Forum](https://discuss.cipherstash.com)
-* [Careers Page](https://cipherstash.com/careers)
+Check out our encryption libraries:
+
+- [ore.rs](https://github.com/cipherstash/ore.rs) is a Rust implementation of [Order Revealing Encryption](https://cipherstash.com/how-it-works)
+- [StashJS](https://github.com/cipherstash/stashjs) is a JavaScript/TypeScript library for encrypting and searching data in your Node.js apps
+
+## 🏔️ We're just getting started 
+
+Our mission is to protect the world's data.
+
+Want to learn more about CipherStash? 
+
+* [Sign up now](https://cipherstash.com/signup) (no credit card required) and start searching your encrypted data in < 30 minutes. 
+* Have a read of our [docs](https://docs.cipherstash.com), particularly the [getting started guide](https://docs.cipherstash.com/tutorials/getting-started/).
+* Chat with us and other users on our [discussion forum](https://discuss.cipherstash.com)
+* Want to work with an extraordinary team? [Come work with us](https://cipherstash.com/careers).
+* And of course, check out our website at [cipherstash.com](https://cipherstash.com).
