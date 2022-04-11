@@ -1,8 +1,8 @@
 # 👋 G'day, we're CipherStash
 
-<img align="right" src="https://avatars.githubusercontent.com/u/66902246?s=400&v=4">
-
 ## ✨ We're making it easy to build secure applications
+
+<img align="right" src="https://avatars.githubusercontent.com/u/66902246?s=300&v=4">
 
 CipherStash helps you build encryption-enabled apps with blazing fast search.
 
