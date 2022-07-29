@@ -6,9 +6,9 @@
 
 CipherStash helps you build encryption-enabled apps with blazing fast search.
 
-You can add data encryption to your Node.js or Ruby apps with just a few lines of code.
+You can add application-level encryption to your Rails apps with just a few lines of code.
 
-Level up your security, and keep the dev workflows you know and love.
+Level up your data security, and keep the dev workflows you know and love.
 
 ## 👁 Encryption should be scrutinized
 
@@ -16,8 +16,9 @@ We believe that the only encryption you can trust is **encryption developed in p
 
 Check out our encryption libraries:
 
+- [ActiveStash](https://github.com/cipherstash/activestash) is a Rails plugin for doing encrypted search on encrypted ActiveRecord models
+- [Envelopers](https://github.com/cipherstash/envelopers) is a very simple envelope encryption library
 - [ore.rs](https://github.com/cipherstash/ore.rs) is a Rust implementation of [Order Revealing Encryption](https://cipherstash.com/how-it-works)
-- [StashJS](https://github.com/cipherstash/stashjs) is a JavaScript/TypeScript library for encrypting and searching data in your Node.js apps
 
 ## 🏔️ We're just getting started 
 
@@ -25,7 +26,7 @@ Our mission is to protect the world's data.
 
 Want to learn more about CipherStash? 
 
-* [Sign up now](https://cipherstash.com/signup) (no credit card required) and start searching your encrypted data in < 30 minutes. 
+* [Sign up now](https://cipherstash.com/signup) (no credit card required) and start searching your encrypted data in < 5 minutes. 
 * Have a read of our [docs](https://docs.cipherstash.com), particularly the [getting started guide](https://docs.cipherstash.com/tutorials/getting-started/).
 * Chat with us and other users on our [discussion forum](https://discuss.cipherstash.com)
 * Want to work with an extraordinary team? [Come work with us](https://cipherstash.com/careers).
