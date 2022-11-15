@@ -6,7 +6,7 @@
 
 CipherStash helps you build encryption-enabled apps with blazing fast search.
 
-You can add application-level encryption to your Rails apps with just a few lines of code.
+You can add application-level encryption to your JavaScript apps, Rails apps or Cloudflare Workers with just a few lines of code.
 
 Level up your data security, and keep the dev workflows you know and love.
 
