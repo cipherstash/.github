@@ -4,11 +4,11 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/66902246?s=300&v=4">
 
-CipherStash helps you build encryption-enabled apps with blazing fast search.
+Our products use advanced queryable encryption technology that keeps data encrypted-in-use, rather than just at-rest. This ensures that access controls are always applied and guarantees that every data access is logged.
 
-You can add application-level encryption to your JavaScript apps, Rails apps or Cloudflare Workers with just a few lines of code.
+CipherStash shows you the who, what, where, and when of how sensitive data is accessed — even when it leaves core systems.
 
-Level up your data security, and keep the dev workflows you know and love.
+CipherStash works in your existing databases, data lakes, and data warehouses via a drop-in driver replacement. An SDK is also available to support more sophisticated use cases.
 
 ## 👁 Encryption should be scrutinized
 
