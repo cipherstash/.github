@@ -1,4 +1,4 @@
-# 👋 G'day, we're CipherStash
+# 👋 Hey, we're CipherStash
 
 ## 🔒 We protect data, not just systems.
 
@@ -17,14 +17,12 @@ Check out our encryption libraries:
 - [ore.rs](https://github.com/cipherstash/ore.rs) is a Rust implementation of [Order Revealing Encryption](https://eprint.iacr.org/2016/612.pdf)
 - [Envelopers](https://github.com/cipherstash/envelopers) is a simple envelope encryption library
 
-## 🏔️ We're just getting started 
-
-Our mission is to _protect the digital future_.
+## 🏔️ Our mission is to _protect the digital future_. 
 
 Want to learn more about CipherStash? 
 
 * [Sign up now](https://cipherstash.com/signup) (no credit card required) and start searching your encrypted data in < 5 minutes. 
-* Have a read of our [docs](https://docs.cipherstash.com), particularly the [getting started guide](https://docs.cipherstash.com/getting-started/step1.html).
+* Have a read of our [docs](https://cipherstash.com/docs), particularly the [getting started guide](https://cipherstash.com/docs/getting-started/cipherstash-proxy).
 * [Request a copy of our whitepaper](https://cipherstash.com/whitepaper), to learn more abaout our technology and how it can help you.
 * Want to work with an extraordinary team? [Come work with us](https://cipherstash.com/careers).
 * And of course, check out our website at [cipherstash.com](https://cipherstash.com).
