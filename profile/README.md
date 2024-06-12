@@ -24,8 +24,8 @@ We believe that the only encryption you can trust is **encryption developed in p
 
 Check out our encryption libraries:
 
-- [ore.rs](https://github.com/cipherstash/ore.rs) is a Rust implementation of [Order Revealing Encryption](https://eprint.iacr.org/2016/612.pdf)
-- [envelopers](https://github.com/cipherstash/envelopers) is a simple envelope encryption library
+- [ore.rs](https://github.com/cipherstash/ore.rs) – a Rust implementation of [Order Revealing Encryption](https://eprint.iacr.org/2016/612.pdf)
+- [envelopers](https://github.com/cipherstash/envelopers) - a simple envelope encryption library
 
 ## Our mission is to _protect the digital future_. 
 
