@@ -7,7 +7,6 @@
 Increase the security, reliability and performance of your database with a single tool. Deploy the CipherStash Proxy Docker container now, and connect to your existing database.
 
 ```
->_ Terminal 
 docker run -p 6432:6432 \
  -e CS_DATABASE__NAME=postgres \
  -e CS_DATABASE__HOST=172.17.0.1 \
@@ -27,7 +26,7 @@ Check out our encryption libraries:
 - [ore.rs](https://github.com/cipherstash/ore.rs) – a Rust implementation of [Order Revealing Encryption](https://eprint.iacr.org/2016/612.pdf)
 - [envelopers](https://github.com/cipherstash/envelopers) - a simple envelope encryption library
 
-## Our mission is to _protect the digital future_. 
+## Because data protection is a team sport. 
 
 Want to learn more about CipherStash? 
 
